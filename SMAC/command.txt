@@ -1,0 +1,5 @@
+python main.py --config=HiMacMic --env-config=sc2 with env_args.map_name=6h_vs_8z
+
+python main.py --config=HiMacMic --env-config=sc2 with env_args.map_name=2c_vs_64zg
+
+python main.py --config=HiMacMic --env-config=sc2 with env_args.map_name=MMM2
