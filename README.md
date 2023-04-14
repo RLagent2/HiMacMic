@@ -18,6 +18,12 @@ cd Overcooked
 python main.py --config=HiMacMic --env-config=overcooked with env_args.map_name=A
 ```
 
+Result Visualization
+
+Add `env.render()` to `episode_runner.py` after select action. 
+
+![Alt text](https://github.com/RLagent2/HiMacMic/blob/main/fig/Overcooked.gif)
+
 
 # GRF
 
@@ -36,7 +42,11 @@ python main.py --config=HiMacMic --env-config=academy_3_vs_1_with_keeper
 python main.py --config=HiMacMic --env-config=academy_counterattack_hard 
 ```
 
+Result Visualization
 
+Due to the requirement of the original repository, the GRF scenes can only be visualized on the Windows platform. Please refer to the official repository for more information about the activity.
+
+![Alt text](https://github.com/RLagent2/HiMacMic/blob/main/fig/GRF.gif)
 
 
 # SMAC and SMAC-v2
