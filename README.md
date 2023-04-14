@@ -1,5 +1,5 @@
 
-#Overcooked
+# Overcooked
 
 ```shell
 pip pygame gym
@@ -19,7 +19,7 @@ python main.py --config=HiMacMic --env-config=overcooked with env_args.map_name=
 ```
 
 
-#GRF
+# GRF
 
 ```shell
 pip gfootball
